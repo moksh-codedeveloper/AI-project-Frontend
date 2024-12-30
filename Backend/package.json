@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "New Backend project for implementing the ai part in the project",
+  "keywords": [
+    "nodejs",
+    "openai",
+    "mongodb"
+  ],
+  "homepage": "https://github.com/moksh-codedeveloper/AI-project-Frontend#readme",
+  "bugs": {
+    "url": "https://github.com/moksh-codedeveloper/AI-project-Frontend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moksh-codedeveloper/AI-project-Frontend.git"
+  },
+  "license": "ISC",
+  "author": "Moksh Malde",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  }
+}
